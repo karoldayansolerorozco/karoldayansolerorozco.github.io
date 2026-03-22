@@ -1,0 +1,185 @@
+{
+    "title": "Karol Dayan Soler | Data & AI Developer Portfolio",
+    "description": "Data-driven developer focused on simulations, computer vision in robotics, and scientific research.",
+    "image": "/foto_yo.jpg",
+    "avatar": "/foto_yo.jpg",
+    "name": "Karol D. Soler",
+    "skill": "Data Analyst | Python Developer | Computer Vision | Robotics | Simulation",
+    "location": "Colombia",
+    "media": {
+        "email": "k.solerorozco@gmail.com",
+        "cv": "/data/CV.pdf",
+        "github": "https://github.com/karoldayansolerorozco",
+        "likedin": "https://www.linkedin.com/in/karol-dayan-soler-orozco-39898a213/"
+    },
+    "about": "I am a data-driven developer with experience in scientific simulations, computer vision, and data analysis. I enjoy transforming complex data into clear insights and building models that explain real-world phenomena. My background in research and teaching allows me to communicate technical ideas effectively.",
+    "technologies": [
+        {"icon": "devicon-python-plain", "name": "Python"},
+        {"icon": "devicon-java-plain", "name": "Java"},
+        {"icon": "devicon-r-plain", "name": "R"},
+        {"icon": "devicon-matlab-plain", "name": "MATLAB"},
+        
+        {"icon": "devicon-mysql-plain", "name": "SQL"},
+        {"icon": "devicon-amazonwebservices-original", "name": "AWS"},
+        {"icon": "devicon-docker-plain", "name": "Docker"},
+        
+        {"icon": "devicon-tensorflow-original", "name": "TensorFlow"},
+        {"icon": "devicon-keras-plain", "name": "Keras"},
+        {"icon": "devicon-opencv-plain", "name": "OpenCV"},
+        {"icon": "devicon-ros-original", "name": "ROS"},
+        
+        {"icon": "devicon-pandas-plain", "name": "Pandas"},
+        {"icon": "devicon-numpy-plain", "name": "NumPy"},
+        
+        {"icon": "devicon-git-plain", "name": "Git"},
+        
+        {"icon": "devicon-devicon-plain", "name": "Power BI"}
+    ],
+    "experience": [
+        {
+            "icon": "brain",
+            "title": "Liora Fertility Solutions",
+            "subtitle": "AI & Computer Vision Engineer",
+            "description": "Designed AI-based solutions for fertility clinics. Developed computer vision models for oocyte segmentation and built prototypes to improve clinical decision-making.",
+            "date": "Jun 2024 – Oct 2024"
+        },
+        {
+            "icon": "cpu",
+            "title": "SinfoIA Uniandes",
+            "subtitle": "Machine Learning & Perception Specialist",
+            "description": "Built machine learning and computer vision models for robotic perception. Worked with ROS and sensor fusion to improve robot autonomy and environmental understanding.",
+            "date": "Jul 2025 – Present"
+        },
+        {
+            "icon": "beaker",
+            "title": "Laboratory for Mechanobiology of Transforming Systems",
+            "subtitle": "Research Intern",
+            "description": "Developed computational simulations of cellular movement using Python and MATLAB. Designed stochastic models and contributed to a scientific publication by leading modeling and simulation tasks.",
+            "date": "Jan 2024 – Dec 2025"
+        },
+        {
+            "icon": "code",
+            "title": "Algorithmics Global",
+            "subtitle": "Programming & Robotics Mentor",
+            "description": "Taught Python and robotics through project-based learning. Mentored students in building coding projects and strengthened problem-solving and computational thinking skills.",
+            "date": "Jan 2025 – Present"
+    }
+
+    ],
+"projects": [
+    {
+        "icon": "rocket",
+        "title": "NASA Space Apps Challenge – Seismic Detection",
+        "subtitle": "Global Nominee & National Winner",
+        "description": "Developed a machine learning and signal processing solution to detect seismic activity on Mars (InSight) and the Moon (Apollo). Optimized noise filtering and signal classification to improve planetary data transmission efficiency.",
+        "technologies": [
+            {"icon": "devicon-python-plain", "name": "Python"},
+            {"icon": "devicon-numpy-plain", "name": "NumPy"},
+            {"icon": "devicon-tensorflow-original", "name": "Machine Learning"}
+        ],
+        "image": "/nasa44.jpeg",
+        "url": "https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/codex-team/",
+        "github": "https://github.com/aarevalom0/NASA-APPS-CHALENGE-2024-Seismic-Detection-Across-the-Solar-System"
+    },
+    {
+        "icon": "hand",
+        "title": "Hand Gesture Recognition with MediaPipe",
+        "subtitle": "Real-Time Computer Vision System",
+        "description": "Developed a real-time hand gesture recognition system using MediaPipe and computer vision techniques. Implemented hand landmark detection to track and interpret gestures, enabling intuitive human-computer interaction. The system processes video streams efficiently and can be extended to control robotic or digital interfaces.",
+        "technologies": [
+            {"icon": "devicon-python-plain", "name": "Python"},
+            {"icon": "devicon-opencv-plain", "name": "OpenCV"},
+            {"icon": "devicon-devicon-plain", "name": "MediaPipe"}
+        ],
+        "image": "/media.jpeg",
+        "url": "https://ai.google.dev/edge/mediapipe/solutions/guide?hl=es-419",
+        "github": "https://github.com/karoldayansolerorozco/Mediapipe"
+    },
+    {
+        "icon": "eye",
+        "title": "People Segmentation with U-Net",
+        "subtitle": "Computer Vision for Robotics",
+        "description": "Developed a deep learning model based on U-Net architecture for human segmentation in images. Applied to robotics perception tasks to improve environment understanding and object separation.",
+        "technologies": [
+            {"icon": "devicon-python-plain", "name": "Python"},
+            {"icon": "devicon-tensorflow-original", "name": "TensorFlow"},
+            {"icon": "devicon-keras-plain", "name": "Keras"}
+        ],
+        "image": "/segm.jpeg",
+        "url": "https://github.com/karoldayansolerorozco/Segmentation-people",
+        "github": "https://github.com/karoldayansolerorozco/Segmentation-people"
+    },
+    {
+        "icon": "car",
+        "title": "Autonomous Racing Challenge",
+        "subtitle": "The Construct Robotics Institute",
+        "description": "Developed an autonomous racing robot in a simulation environment using ROS 2. Implemented computer vision and control strategies (line following and perception) to optimize lap times in a global robotics competition.",
+        "technologies": [
+            {"icon": "devicon-ros-original", "name": "ROS 2"},
+            {"icon": "devicon-python-plain", "name": "Python"},
+            {"icon": "devicon-opencv-plain", "name": "OpenCV"}
+        ],
+        "image": "/mario2.jpeg",
+        "url": "https://www.youtube.com/watch?v=B2VnubShrs8",
+        "github": "https://github.com/Auto-pilot-racer-challenge/Code"
+    },
+    {
+        "icon": "shield",
+        "title": "Fraud Detection System – Global 66",
+        "subtitle": "Markov Model for Financial Risk",
+        "description": "Designed a fraud detection system using Markov chains to model transaction behavior and identify anomalies. Improved detection of suspicious patterns in financial data through probabilistic modeling.",
+        "technologies": [
+            {"icon": "devicon-python-plain", "name": "Python"},
+            {"icon": "devicon-pandas-plain", "name": "Pandas"},
+            {"icon": "devicon-devicon-plain", "name": "Markov Chains"}
+        ],
+        "image": "/global.jpeg",
+        "url": "https://github.com/karoldayansolerorozco/Global-66",
+        "github": "https://github.com/karoldayansolerorozco/Global-66"
+    }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Universidad de los Andes",
+            "subtitle": "B.Sc. in Biomedical Engineering",
+            "description": "Focused on data analysis, computer vision, and scientific simulations, integrating engineering principles with AI applications.",
+            "date": "2021 – 2026"
+        },
+        {
+            "icon": "book-open",
+            "title": "Pontificia Universidad Javeriana",
+            "subtitle": "Business Intelligence in Computer Engineering",
+            "description": "Specialized in data analysis, databases, and business intelligence tools for data-driven decision making.",
+            "date": "2023 – 2024"
+        },
+        {
+            "icon": "brain",
+            "title": "Ministry of Information Technologies and Communications (MinTIC) – Colombia",
+            "subtitle": "Intermediate Artificial Intelligence Certification",
+            "description": "Training in machine learning fundamentals, data analysis, and AI model development.",
+            "date": "Nov 2024",
+            "certificate": "https://certificados.talentotech.co/?cert=2386933149&fingerprint=y#pdf"
+    }
+    ],
+    "extras": [
+        {
+            "image": "/la.jpeg",
+            "title": "Colivri Robotics Lab – SinfoIA",
+            "description": "Active member of the Colivri research lab at Universidad de los Andes, working on robotics and AI projects within the SinfoIA team.",
+            "url": "https://colivri.uniandes.edu.co/#/personas"
+        },
+        {
+            "image": "/dibujo1.jpeg",
+            "title": "Scientific Illustration",
+            "description": "I create scientific illustrations to communicate complex ideas in a clear and engaging way.",
+            "url": "https://www.instagram.com/scidraws/"
+        },
+        {
+        "image": "/b.jpeg",
+        "title": "Sports & Active Lifestyle",
+        "description": "I enjoy karate, dancing, and ecological hiking, maintaining an active and disciplined lifestyle.",
+        "url": null
+        }
+    ]
+}
