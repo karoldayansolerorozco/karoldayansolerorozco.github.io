@@ -63,8 +63,22 @@
             "subtitle": "Programming & Robotics Mentor",
             "description": "Taught Python and robotics through project-based learning. Mentored students in building coding projects and strengthened problem-solving and computational thinking skills.",
             "date": "Jan 2025 – Present"
+        },
+        {
+            "icon": "bar_chart",
+            "title": "HiveBost (Startup)",
+            "subtitle": "Data and Business Analyst",
+            "description": "Designed analytical reports and interactive Power BI dashboards to drive strategic growth. Optimized SQL and Excel databases to enhance data integrity and transformed raw client data into actionable insights for sales opportunity identification.",
+            "date": "Aug 2024 – Dec 2024"
+        },
+        {
+            
+            "icon": "settings",
+            "title": "The Massachusetts Institute of Technology Lab",
+            "subtitle": "Engineering Intern",
+            "description": "Designed and implemented the 'Biogas Filter' project to purify hazardous gases. Developed high-precision blueprints using AutoCAD and Adobe Illustrator, and engineered active filtration components to neutralize toxic emissions for laboratory safety.",
+            "date": "Aug 2023 - Aug 2024"
     }
-
     ],
 "projects": [
     {
